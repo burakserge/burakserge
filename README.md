@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @burakserge
+- 👀 I’m interested in automation of testing
+- 🌱 I’m currently learning js and python
